@@ -42,12 +42,7 @@
 ---
 
 ## 🏆 Achievements & Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-Developer-blue?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon-Participant-yellow?logo=hackaday&logoColor=white" />
-</p>
+
 
 ---
 
