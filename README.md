@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Duc</h1>
+<h3 align="center">💻 AI-Powered Software Developer | 🌍 Web & AI Solutions</h3>
 
-<!--
-**TNTD-dev/TNTD-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 2nd-year Computer Science Student
+- 🛠 Building **AI-powered web apps** and **automation tools**
+- 🌱 Currently learning **Cloud, DevOps, and Machine Learning**
+- 📫 How to reach me: **your_email@example.com**
+- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
+  <br/>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind,express" />
+  <br/>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TNTD-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNTD-dev&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+- **[AI Resume Tailor](https://github.com/TNTD-dev/ai-resume-tailor)** – AI tùy chỉnh CV theo JD
+- **[E-commerce Chatbot](https://github.com/TNTD-dev/ai-ecom-chatbot)** – Chatbot AI gợi ý sản phẩm
+- **[Auto Data Analyzer](https://github.com/TNTD-dev/auto-data-analyzer)** – AI phân tích dữ liệu tự động
+
+---
+
+## 🏆 Achievements & Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-Developer-blue?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-yellow?logo=hackaday&logoColor=white" />
+</p>
+
+---
+
+⭐️ *From [TNTD-dev](https://github.com/TNTD-dev)*
