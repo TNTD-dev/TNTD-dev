@@ -37,9 +37,7 @@
 ---
 
 ## 🔥 Featured Projects
-- **[AI Resume Tailor](https://github.com/TNTD-dev/ai-resume-tailor)** – AI tùy chỉnh CV theo JD
-- **[E-commerce Chatbot](https://github.com/TNTD-dev/ai-ecom-chatbot)** – Chatbot AI gợi ý sản phẩm
-- **[Auto Data Analyzer](https://github.com/TNTD-dev/auto-data-analyzer)** – AI phân tích dữ liệu tự động
+
 
 ---
 
