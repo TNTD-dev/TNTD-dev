@@ -7,7 +7,7 @@
 - 🎓 2nd-year Computer Science Student
 - 🛠 Building **AI-powered web apps** and **automation tools**
 - 🌱 Currently learning **Cloud, DevOps, and Machine Learning**
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **tntduc05@gmail.com**
 - 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
 
 ---
