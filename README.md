@@ -1,49 +1,20 @@
-<h1 align="center">👋 Hi, I'm Duc</h1>
-<h3 align="center">💻 AI-Powered Software Developer | 🌍 Web & AI Solutions</h3>
+# Hi there, I'm Duc 👋  
+
+🎓 Second-year Computer Science student at **Ho Chi Minh City University of Information Technology (UIT)**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**  
+🚀 On a journey to become an **AI Engineer**, building strong foundations and real-world projects along the way  
 
 ---
 
-## 🚀 About Me
-- 🎓 2nd-year Computer Science Student
-- 🛠 Building **AI-powered web apps** and **automation tools**
-- 🌱 Currently learning **Cloud, DevOps, and Machine Learning**
-- 📫 How to reach me: **tntduc05@gmail.com**
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+## 👨‍💻 About Me
+- 🔭 Currently focused on strengthening my **Python, Data Structures, and Machine Learning** skills  
+- 🌱 Exploring **Deep Learning, Large Language Models (LLMs), and MLOps**  
+- 🧩 I enjoy solving problems, building projects, and turning ideas into code  
+- 📚 Lifelong learner with a growth mindset  
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
-  <br/>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind,express" />
-  <br/>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,github,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TNTD-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNTD-dev&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
-
----
-
-## 🔥 Featured Projects
-
-
----
-
-## 🏆 Achievements & Badges
-
-
----
-
-⭐️ *From [TNTD-dev](https://github.com/TNTD-dev)*
+## 🛠 Tech Interests
+- **Languages:** Python, C++, SQL  
+- **Core Areas:** Machine Learning, Deep Learning, Data Science, MLOps  
+- **Tools & Frameworks:** PyTorch, TensorFlow, scikit-learn, Docker, Git  
