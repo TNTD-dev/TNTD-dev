@@ -5,12 +5,14 @@
 
 Third-year Computer Science student at Ho Chi Minh City University of Information Technology (UIT). Building strong foundations in AI, ML, and software engineering through hands-on projects.
 
-----
+
+
 
 ## 🎯 Objective
 To become an AI Engineer and leverage Artificial Intelligence to create practical solutions that impact industries, research, and daily life.
 
----
+
+
 
 ## 🧑‍💻 About Me
 - Strengthening skills in **Python**, **Data Structures**, and **Machine Learning**
@@ -18,7 +20,8 @@ To become an AI Engineer and leverage Artificial Intelligence to create practica
 - Enjoy solving problems, building projects, and turning ideas into production-ready code
 - Lifelong learner with a growth mindset and curiosity-driven approach
 
----
+
+
 
 ### 📫 Contact Me
 
@@ -27,7 +30,7 @@ To become an AI Engineer and leverage Artificial Intelligence to create practica
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-tr%E1%BA%A7n-989698243/)
 
 
----
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
