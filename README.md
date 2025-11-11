@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Duc Tran
 
-🚀 Aspiring AI Engineer | Passionate about applying AI to solve real-world problems  
+### 🚀 **Aspiring AI Engineer | Passionate About Applying AI To Solve Real-World Problems**
+
 
 Third-year Computer Science student at Ho Chi Minh City University of Information Technology (UIT). Building strong foundations in AI, ML, and software engineering through hands-on projects.
 
----
+----
 
 ## 🎯 Objective
 To become an AI Engineer and leverage Artificial Intelligence to create practical solutions that impact industries, research, and daily life.
